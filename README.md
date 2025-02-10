@@ -10,7 +10,7 @@ I am Julio Garcia, a passionate developer with a keen interest in building innov
 
 ### 🌱 I’m currently learning
 - Ethical Hacking
-- Python, Go, Typescript, NodeJs
+- Python, Go, Typescript, Node.js
 
 ### 👯 I’m looking to collaborate on
 - Open source projects
